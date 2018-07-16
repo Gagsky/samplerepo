@@ -5,7 +5,7 @@ function rec(z) {
     }
 
     else {
-        console.log('recursive call',z)
+        console.log('recursive call', z)
         rec(z + 1)
     }
 }

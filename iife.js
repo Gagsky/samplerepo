@@ -1,8 +1,8 @@
-( function(x){
-    console.log("zzzz" , x*x)
-} 
+// ( function(x){
+//     console.log("zzzz" , x*x)
+// } 
 
 
 
-)
-(4);
+// )
+// ();
